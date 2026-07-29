@@ -1,0 +1,1 @@
+# 01_fund_redes_neurais_knn_cifar_10
